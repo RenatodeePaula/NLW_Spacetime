@@ -26,7 +26,7 @@
   }
   to {
     opacity: 1;
-    transform: translatey(0);
+    transform: translateY(0);
   }
 }
 
@@ -46,6 +46,7 @@ nav {
   grid-area: timeLine;
 
   overflow-y: scroll;
+  
   animation: entering 1s;
 }
 
